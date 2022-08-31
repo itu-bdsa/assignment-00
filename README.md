@@ -86,7 +86,7 @@ Use your favorite diagram drawing tool and your favorite modeling language to dr
 
 ## Exercise 7 - LaTeX
 
-Create a document using LaTeX in which you embed the diagram created in exercise 8 and describe in prose the illustrated algorithm.
+Create a document using LaTeX in which you embed the diagram created in exercise 6 and describe in prose the illustrated algorithm.
 
 **Integrate your changes on GitHub** with a commit message like *Added documentation*.
 
