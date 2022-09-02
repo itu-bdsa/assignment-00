@@ -86,10 +86,11 @@ Use your favorite diagram drawing tool and your favorite modeling language to dr
 
 ## Exercise 7 - LaTeX
 
-Create a document using LaTeX in which you embed the diagram created in exercise 6 and describe in prose the illustrated algorithm.
+Create a PDF document using LaTeX in which you embed the diagram created in exercise 6. 
+In that document you describe in prose the illustrated algorithm.
 
 **Integrate your changes on GitHub** with a commit message like *Added documentation*.
 
 ## Submission
 
-Your submission should just be the link to your public GitHub repository.
+Before Friday 9/9/22 10:00, you submit a link to your public GitHub repository that contains all source code, the LaTeX sources, built PDF, etc. to [LearnIT](https://learnit.itu.dk/mod/assign/view.php?id=163682).
